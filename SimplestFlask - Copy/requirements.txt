@@ -1,0 +1,4 @@
+flask
+dash
+pandas
+https://github.com/toddbirchard/plotlydash-flask-tutorial
